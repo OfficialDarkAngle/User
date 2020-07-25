@@ -8,10 +8,10 @@ kencing aja belum lurus lu:)
 
 '''
 
-#import library                                                 import os
-
-import csv                                                      import sys
-
+#import library                                                 
+import os
+import csv                                                      
+import sys
 import time
 
 from time import sleep
